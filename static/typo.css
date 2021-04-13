@@ -9,8 +9,6 @@
 }
 
 
-
-
 .typo_theme_major {
     font-size: 60px;
     line-height: 65px;
@@ -21,6 +19,12 @@
     font-size: 38px;
     line-height: 48px;
     font-weight: 700;
+}
+
+.typo_theme_sub-subtitle {
+    font-size: 28px;
+    line-height: 38px;
+    font-weight: 500;
 }
 
 .typo_theme_plain {
